@@ -10,6 +10,8 @@ Trabalho feito durante o andamento do Curso Informática para Internet do Senai 
 
 ## Prints
 
-Anexo: ![Projeto em Funcionamento]()
-
-##### (Outro dia ou talvez outro mês ou talvez outro ano eu termino esse markdown) :)
+##### Anexos:
+1: ![Projeto em Funcionamento](https://github.com/mathxusohai/matt-angular/blob/master/src/assets/img/vagas/PrintPROJAngular.jpeg)
+2: ![Projeto em Funcionamento](https://github.com/mathxusohai/matt-angular/blob/master/src/assets/img/vagas/PrintPROJAngular%20(2).jpeg)
+##### OBS: Outro dia ou talvez outro mês eu ensino pra vocês como rodar o projeto na sua máquina. 
+obs: to mt felizinho pelo meu primeiro projeto utilizando Angular :))
